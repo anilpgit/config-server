@@ -6,4 +6,4 @@ eureka:
       defaultZone: ${EUREKA_SERVER:http://registry:8761/eureka}
       
   instance:
-    appname: localhost
+    appname: registry
